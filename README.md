@@ -1,6 +1,6 @@
 # 🌍 Terraform Demo - AWS 인프라 자동화 구축
 
-https://github.com/user-attachments/assets/1b2226c6-41a7-4b37-b9d8-7f5084c3201c
+![image](https://github.com/user-attachments/assets/db4c4804-a389-428c-991e-d75d35307159)
 
 ## 📌 개요
 
